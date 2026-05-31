@@ -6,15 +6,15 @@
 
 mostrar_menu() {
     echo ""
-    echo "========================================="
-    echo "   UTILIDADES DE RENOMBRADO DE ARCHIVOS  "
-    echo "========================================="
+    echo "======================================================="
+    echo "   UTILIDADES DE MOD-arch, TU MODIFICADOR DE ARCHIVOS   "
+    echo "======================================================="
     echo " 1) Quitar texto específico del nombre"
     echo " 2) Quitar espacios de sobra del nombre"
     echo " 3) Añadir prefijo al nombre"
     echo " 4) Añadir sufijo al nombre"
     echo " 5) Salir"
-    echo "========================================="
+    echo "======================================================="
     echo ""
 }
 
